@@ -1,0 +1,29 @@
+* {
+  font-family: 'Roboto';
+  /* border: 1px solid black;
+  padding: 5px; */
+  text-align: center;
+}
+
+.app-container {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.content-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 55%;
+}
+
+.todos-container {
+  list-style-type: none;
+}
+
+.heading {
+  color: #ff8542;
+}
